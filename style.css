@@ -13,6 +13,10 @@ body {
     width: 215px;
 }
 
+img {
+    padding: 5px;
+}
+
 h1{
     color: white;
     font-family: 'Trebuchet MS', sans-serif;
@@ -30,6 +34,7 @@ h2{
 
 .circle {
     border-radius: 50%;
+    padding: 35px;
 }
 
 * {
