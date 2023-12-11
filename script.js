@@ -46,3 +46,6 @@
   // add event listener to the button
   button1.addEventListener('click', WolfSpeak);
   button2.addEventListener('click', DrugMirror);
+  button3.addEventListener('click', Baquenne);
+  button4.addEventListener('click', ParlorMob);
+  button5.addEventListener('click', TheColdSeas);
