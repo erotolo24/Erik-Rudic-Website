@@ -1,6 +1,10 @@
 
   // select the button and the div
   const button1 = document.getElementById('myButton1');
+  const button2 = document.getElementById('myButton2');
+  const button3 = document.getElementById('myButton3');
+  const button4 = document.getElementById('myButton4');
+  const button5 = document.getElementById('myButton5');
   const title = document.getElementById('bandTitle');
   const role = document.getElementById('bandRole');
   const desc = document.getElementById('bandDesc');
