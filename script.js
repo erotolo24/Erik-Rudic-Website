@@ -22,7 +22,7 @@
   function DrugMirror() {
     title.innerHTML = '<h5>Drug Mirror</h5>'
     role.textContent = 'CURRENT LEAD GUITAR'
-    desc.textContent = '2000s based Alternative Metal band from Asbury Park, NJ'
+    desc.textContent = '2000s based Alternative Metal Band from Asbury Park, NJ'
 
   }
 
@@ -36,14 +36,14 @@
   function ParlorMob() {
     title.innerHTML = '<h5>The Parlor Mob</h5>'
     role.textContent = 'PAST FEATURED LEAD GUITAR'
-    desc.textContent = 'Alternative Hard Rock band from Asbury Park, NJ'
+    desc.textContent = 'Alternative Hard Rock Band from Asbury Park, NJ'
 
   }
 
   function TheColdSeas() {
     title.innerHTML = '<h5>The Cold Seas</h5>'
     role.textContent = 'PAST FEATURED LEAD GUITAR'
-    desc.textContent = 'Alternative Indie Rock band from Asbury Park, NJ'
+    desc.textContent = 'Alternative Indie Rock Band from Asbury Park, NJ'
 
   }
 
