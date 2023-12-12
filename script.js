@@ -13,35 +13,35 @@
 
   // define the function to change the HTML content
   function WolfSpeak() {
-    title.innerHTML = '<h5>Wolfspeak</h5>'
+    title.innerHTML = '<h2><b>Wolfspeak</b></h2>'
     role.textContent = 'CURRENT LEAD GUITAR'
     desc.textContent = 'Alternative Metal/Horror Shock Rock Band from Asbury Park, NJ'
 
   }
 
   function DrugMirror() {
-    title.innerHTML = '<h5>Drug Mirror</h5>'
+    title.innerHTML = '<h2><b>Drug Mirror</b></h2>'
     role.textContent = 'CURRENT LEAD GUITAR'
     desc.textContent = '2000s based Alternative Metal Band from Asbury Park, NJ'
 
   }
 
   function Baquenne() {
-    title.innerHTML = '<h5>Baquenne</h5>'
+    title.innerHTML = '<h2><b>Baquenne</b></h2>'
     role.textContent = 'CURRENT LEAD GUITAR'
     desc.textContent = 'Alternative Indie Rock Band from Asbury Park, NJ'
 
   }
 
   function ParlorMob() {
-    title.innerHTML = '<h5>The Parlor Mob</h5>'
+    title.innerHTML = '<h2><b>The Parlor Mob</b></h2>'
     role.textContent = 'PAST FEATURED LEAD GUITAR'
     desc.textContent = 'Alternative Hard Rock Band from Asbury Park, NJ'
 
   }
 
   function TheColdSeas() {
-    title.innerHTML = '<h5>The Cold Seas</h5>'
+    title.innerHTML = '<h2><b>The Cold Seas</b></h2>'
     role.textContent = 'PAST FEATURED LEAD GUITAR'
     desc.textContent = 'Alternative Indie Rock Band from Asbury Park, NJ'
 
